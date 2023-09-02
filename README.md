@@ -12,3 +12,20 @@ Habilidades
   Contato
 
 -E-mail: Kaiquedemetrio2017123@gmail.com
+
+<div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiqueDM1" alt="Gift's LangStat" height="162px"  width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiqueDM1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="162px"  width="400px"/>
+</div>
+
+**Expandir para ver**
+<details>
+  <summary><b>:zap: Status do Perfil</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaiqueDM1s&show_icons=true" />
+</details>
+<details>
+  <summary><b>⚡ Atividade Recente</b></summary>
+  <br/>
+   <a href="https://github.com/kaiqueDM1/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umlucas&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
