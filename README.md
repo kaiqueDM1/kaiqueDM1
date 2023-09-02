@@ -20,6 +20,9 @@ Habilidades
 
 **Expandir para ver**
 <details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiqueDM1&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
   <summary><b>:zap: Status do Perfil</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaiqueDM1s&show_icons=true" />
 </details>
