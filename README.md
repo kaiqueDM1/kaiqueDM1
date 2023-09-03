@@ -7,6 +7,7 @@ empolgado em aprender a linguagem C.
 Habilidades
 
 -Linguagens de Programação: Python 🐍, C 📝
+
 -Áreas de Interesse: Desenvolvimento de Software, Algoritmos e Estruturas de Dados, Aprendizado de Máquina.
 
   Contato
